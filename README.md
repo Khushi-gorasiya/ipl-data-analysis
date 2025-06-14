@@ -13,6 +13,19 @@ This project performs a comprehensive analysis of Indian Premier League (IPL) da
 
 ---
 
+## 📥 Data to Download
+
+The dataset files used in this project are too large for direct upload to GitHub.  
+Please download them using the links below and place them in the project directory:
+
+1. **deliveries.csv**  
+   🔗 [Download from Google Drive](https://drive.google.com/file/d/1j2v78AJJtNDSxBlHNMLCAAJRXiLv8ygK/view?usp=drive_link)
+
+2. **matches.csv**  
+   🔗 [Download from Google Drive](https://drive.google.com/file/d/1uiWkWPaNRdbZIWrZlJMbz2ywFPbli1Ru/view?usp=drive_link)
+
+---
+
 ## 🛠 Tools & Technologies Used
 
 - Python
@@ -39,10 +52,3 @@ This project performs a comprehensive analysis of Indian Premier League (IPL) da
 2. Install required Python libraries:
 ```bash
 pip install pandas matplotlib seaborn jupyter
-
-## Data to Download
-
-Download the files which are used in this project by the links given below:
-
-1. deliveries.csv: https://drive.google.com/file/d/1j2v78AJJtNDSxBlHNMLCAAJRXiLv8ygK/view?usp=drive_link
-2. matches.csv: https://drive.google.com/file/d/1uiWkWPaNRdbZIWrZlJMbz2ywFPbli1Ru/view?usp=drive_link
