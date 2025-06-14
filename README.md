@@ -1,6 +1,6 @@
-# 🏏 IPL Data Analysis (2008–2021)
+# 🏏 IPL Data Analysis (2008–2024)
 
-This project performs a comprehensive analysis of Indian Premier League (IPL) data from 2008 to 2021 using Python and Power BI. It explores team performances, player statistics, venues, and match trends. The goal is to extract meaningful insights from IPL data using data visualization and analytical tools.
+This project performs a comprehensive analysis of Indian Premier League (IPL) data from 2008 to 2024 using Python and Power BI. It explores team performances, player statistics, venues, and match trends. The goal is to extract meaningful insights from IPL data using data visualization and analytical tools.
 
 ---
 
@@ -32,7 +32,7 @@ Please download them using the links below and place them in the same directory 
 - **Programming Language:** Python
 - **Libraries:** pandas, matplotlib, seaborn, Jupyter Notebook
 - **Visualization Tool:** Power BI
-- **Data Sources:** Kaggle / Google Drive (2008–2021 IPL data)
+- **Data Sources:** Kaggle / Google Drive (2008–2024 IPL data)
 
 ---
 
